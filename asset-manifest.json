@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/practise/static/css/main.e2ce0a35.css",
+    "main.js": "/practise/static/js/main.88c2eaed.js",
+    "static/js/453.2a3015e5.chunk.js": "/practise/static/js/453.2a3015e5.chunk.js",
+    "static/media/carrot.jpg": "/practise/static/media/carrot.2fdb05b3479860194762.jpg",
+    "static/media/orange.jpg": "/practise/static/media/orange.72d514d83e9d9d3196d7.jpg",
+    "static/media/apple.jpg": "/practise/static/media/apple.5bc2e558e5e2782b050a.jpg",
+    "static/media/corn.jpg": "/practise/static/media/corn.8e97b531323493b6d342.jpg",
+    "static/media/beans.jpg": "/practise/static/media/beans.cc62f7709710582aad48.jpg",
+    "static/media/radish.jpg": "/practise/static/media/radish.226cd4883a50a2ffd000.jpg",
+    "static/media/pomegranate.jpg": "/practise/static/media/pomegranate.4e0df6d89fe475bdb69d.jpg",
+    "static/media/tomato.jpg": "/practise/static/media/tomato.d536526eb5e9b415a789.jpg",
+    "static/media/pineapple.jpg": "/practise/static/media/pineapple.d04120980684de16b3cf.jpg",
+    "static/media/grapes.jpg": "/practise/static/media/grapes.faad9a011ae3f3f1b409.jpg",
+    "static/media/cauliflower.jpg": "/practise/static/media/cauliflower.8618ef8da54a0f998a6c.jpg",
+    "static/media/banana.jpg": "/practise/static/media/banana.81582dabde89b9220fe7.jpg",
+    "static/media/cucumber.jpg": "/practise/static/media/cucumber.3918af2b4477bac2f9b5.jpg",
+    "static/media/bottle gaurd.jpg": "/practise/static/media/bottle gaurd.fe8a68811b7a483ee49a.jpg",
+    "static/media/mangos.jpg": "/practise/static/media/mangos.a769dd741228ed7df60a.jpg",
+    "static/media/capsicum.jpg": "/practise/static/media/capsicum.bacb576c69f8e79bc204.jpg",
+    "static/media/brinjal.jpg": "/practise/static/media/brinjal.51438b774c1caeccd1a2.jpg",
+    "static/media/onions.jpg": "/practise/static/media/onions.e3b047f97fb7e22c4442.jpg",
+    "static/media/hero3.png": "/practise/static/media/hero3.81f16fc7ad1844c9be71.png",
+    "index.html": "/practise/index.html",
+    "main.e2ce0a35.css.map": "/practise/static/css/main.e2ce0a35.css.map",
+    "main.88c2eaed.js.map": "/practise/static/js/main.88c2eaed.js.map",
+    "453.2a3015e5.chunk.js.map": "/practise/static/js/453.2a3015e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ce0a35.css",
+    "static/js/main.88c2eaed.js"
+  ]
+}
